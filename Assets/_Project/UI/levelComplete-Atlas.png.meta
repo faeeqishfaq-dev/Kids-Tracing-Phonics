@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: 32c001c554b556b46b8f50aca52df5ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: levelComplete-Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 288
+        width: 293
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908b8c78e0f3e548801c53c3a04d2b4
+      internalID: 1915124732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 488
+        width: 281
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8829fc52dd541740be5b1dbeec266ce
+      internalID: -1061517465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 378
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd85c1f67506c409160458d6d3e9b6
+      internalID: 1268009078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 356
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296c78149bc2da4c8536efa35896e75
+      internalID: 2038855390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 276
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4278bc8e38883d24fa4ed987bf78c71b
+      internalID: -2001997169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 262
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169274153505e7f43b2339ffd94dc329
+      internalID: 551642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 185
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1ae7e9f59e294a9383e7e856f82df
+      internalID: -1859296078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 202
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f900a9c747e3fe4428a35ec5f78177f4
+      internalID: -683779430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d29c011c61f045a312331aba063c7
+      internalID: 1201924081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 210
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d213aa0e2ff294986268c0dcf81d64
+      internalID: -1717500275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 153
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef505bceb07b6e54fad77ff2952633c2
+      internalID: 1807845815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b8f55a26b9ad4d956118eb4796d6e
+      internalID: -465027831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 150
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea088c77960ac419363fde6167bfc7
+      internalID: -301139761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 154
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d415118a0d6a41894284a59ac8982
+      internalID: -1482761049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 152
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac7222e2c16bba4aab29fd1d4378c24
+      internalID: -2061968128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 150
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae77d7c7be159a41bb71b1e015b8b8c
+      internalID: 646004418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030a36f7ff491640a8670fcfac43460
+      internalID: 391805481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 144
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a310c4911637244fae0e35f1faf42e4
+      internalID: -1731685790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 150
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e3f7d2c69dc6488d975f54c7ad436
+      internalID: -382157158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98cac82d4dc11944aa6c4f2b7aa9f46
+      internalID: 1606330388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 102
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f293a8b1f8b9e542a0b7df0e266a598
+      internalID: -843171143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839de2ca4108797439849373f1aa5063
+      internalID: 2116882972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a8cb948ae0cd4ba1ea0be5ae0b0b4
+      internalID: 689168385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 102
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f6f8a61bea274cb4589eb59077fa4
+      internalID: -952339357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8069ea28d8c4ea409b042bb3342ebaa
+      internalID: 543311017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 103
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251bb5105db7c1f45b0472be2e9ef40c
+      internalID: 1371621612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22afa83869cc4849bf6101a39d86e20
+      internalID: -317277399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 102
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932fbe05767a4b4aa63cf30843eb055
+      internalID: -244899605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 102
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c39b24c800adb468ee5a633bc050d8
+      internalID: 220843052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 105
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd09570da8d4241b9ec97cdc6f9d32
+      internalID: 1946302138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1133caa0a7193b45a4c3ce798b2d247
+      internalID: 638720684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61470879cf318194185272ac2e71277e
+      internalID: -736177955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb488148fe560241b9eca30ed24ff96
+      internalID: 1915011218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606700bebfd401a4aa914535e6949368
+      internalID: 538565041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 71
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40b7110bc78af49bcae76de3237302
+      internalID: 1648329234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b34da7604a884c83eb54354826145
+      internalID: -1332499852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 63
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fcfb949d4ae8c4c80de40a1aa3806f
+      internalID: 1974687256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 60
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90977dd24fcd9fc44aa3f98beb6d93ec
+      internalID: 1656708651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 31
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5619a0e7100d4f4eb911d3920434a8a
+      internalID: -2021102385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5864e36e3fd23478263fa37fc3f0d8
+      internalID: -1629704804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 65
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c03730e6eee34e9f43666ad856282
+      internalID: 1856857629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 66
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c5684de5d8054ba0f8978e1f1d2e8
+      internalID: 1308591263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37798942622d0f94e984a0469722c683
+      internalID: -48476994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f2d741c40bc44d9d94066df6d7847
+      internalID: -1216072955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4632e2e560e2dd44e95b19517d7565c3
+      internalID: -494675405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3125ef2b77045648bbbf45d7143c7f9
+      internalID: -1465232128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 12
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e9cca0a0ce2f47b2ce19ec209bf01
+      internalID: 340460094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 12
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8e99ff01e7b143af9bc624d12298d
+      internalID: 220982457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 46
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337b3b50e0c21f4381b21f6bdc00143
+      internalID: -621433620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 33
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b85567d827d5542ab5928f0cfaed01
+      internalID: 992919050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 29
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73632aac72e7b4aa8506e7cba15dd3
+      internalID: -1346024310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 24
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04970f0fb873604190e3da6f9885f26
+      internalID: -659724917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 18
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df2487abc74d344b38b53bb718beae
+      internalID: -1669082101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f07f62dc022215449666a6ae69be994
+      internalID: -1212539992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: levelComplete-Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6746e8b585797842b999949c7b28b1e
+      internalID: 1853654359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      levelComplete-Atlas_0: 1915124732
+      levelComplete-Atlas_1: -1061517465
+      levelComplete-Atlas_10: 1807845815
+      levelComplete-Atlas_11: -465027831
+      levelComplete-Atlas_12: -301139761
+      levelComplete-Atlas_13: -1482761049
+      levelComplete-Atlas_14: -2061968128
+      levelComplete-Atlas_15: 646004418
+      levelComplete-Atlas_16: 391805481
+      levelComplete-Atlas_17: -1731685790
+      levelComplete-Atlas_18: -382157158
+      levelComplete-Atlas_19: 1606330388
+      levelComplete-Atlas_2: 1268009078
+      levelComplete-Atlas_20: -843171143
+      levelComplete-Atlas_21: 2116882972
+      levelComplete-Atlas_22: 689168385
+      levelComplete-Atlas_23: -952339357
+      levelComplete-Atlas_24: 543311017
+      levelComplete-Atlas_25: 1371621612
+      levelComplete-Atlas_26: -317277399
+      levelComplete-Atlas_27: -244899605
+      levelComplete-Atlas_28: 220843052
+      levelComplete-Atlas_29: 1946302138
+      levelComplete-Atlas_3: 2038855390
+      levelComplete-Atlas_30: 638720684
+      levelComplete-Atlas_31: -736177955
+      levelComplete-Atlas_32: 1915011218
+      levelComplete-Atlas_33: 538565041
+      levelComplete-Atlas_34: 1648329234
+      levelComplete-Atlas_35: -1332499852
+      levelComplete-Atlas_36: 1974687256
+      levelComplete-Atlas_37: 1656708651
+      levelComplete-Atlas_38: -2021102385
+      levelComplete-Atlas_39: -1629704804
+      levelComplete-Atlas_4: -2001997169
+      levelComplete-Atlas_40: 1856857629
+      levelComplete-Atlas_41: 1308591263
+      levelComplete-Atlas_42: -48476994
+      levelComplete-Atlas_43: -1216072955
+      levelComplete-Atlas_44: -494675405
+      levelComplete-Atlas_45: -1465232128
+      levelComplete-Atlas_46: 340460094
+      levelComplete-Atlas_47: 220982457
+      levelComplete-Atlas_48: -621433620
+      levelComplete-Atlas_49: 992919050
+      levelComplete-Atlas_5: 551642252
+      levelComplete-Atlas_50: -1346024310
+      levelComplete-Atlas_51: -659724917
+      levelComplete-Atlas_52: -1669082101
+      levelComplete-Atlas_53: -1212539992
+      levelComplete-Atlas_54: 1853654359
+      levelComplete-Atlas_6: -1859296078
+      levelComplete-Atlas_7: -683779430
+      levelComplete-Atlas_8: 1201924081
+      levelComplete-Atlas_9: -1717500275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

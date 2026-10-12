@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe2c441019d066f428ecf443d686324c, type: 3}
+  m_Name: AlphabetDatabase
+  m_EditorClassIdentifier: 
+  letters:
+  - letterName: A
+    letterSprite: {fileID: 21300000, guid: 7c3095ce32a02ce48b023fcdb1a875ad, type: 3}
+    maskSprite: {fileID: 21300000, guid: 7c3095ce32a02ce48b023fcdb1a875ad, type: 3}
+    guideSprites: []
+  - letterName: B
+    letterSprite: {fileID: 21300000, guid: 7728cd921f111b74c9e6af16b226798a, type: 3}
+    maskSprite: {fileID: 21300000, guid: 7728cd921f111b74c9e6af16b226798a, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 00f401da12bd7914ab620d25540adfd5, type: 3}
+    - {fileID: 21300000, guid: 7f21cd921fca56c41afdf23613aecf97, type: 3}
+    - {fileID: 21300000, guid: abf7755e18fbfb345adad7694b29084d, type: 3}
+  - letterName: C
+    letterSprite: {fileID: 21300000, guid: c5598defca97ea540a35a1d0c566fddc, type: 3}
+    maskSprite: {fileID: 21300000, guid: c5598defca97ea540a35a1d0c566fddc, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 3b5e1f62f5e9c0c4c97bab986750dbfd, type: 3}
+  - letterName: D
+    letterSprite: {fileID: 21300000, guid: 3edb9a358c427324d874c1ab1f7de715, type: 3}
+    maskSprite: {fileID: 21300000, guid: 3edb9a358c427324d874c1ab1f7de715, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 550b1aa8f2735f44d83bab913f678490, type: 3}
+    - {fileID: 21300000, guid: 003102ec3045f464f89631b1580f2268, type: 3}
+  - letterName: E
+    letterSprite: {fileID: 21300000, guid: c795a57fddff6264bbc700d3e043093c, type: 3}
+    maskSprite: {fileID: 21300000, guid: c795a57fddff6264bbc700d3e043093c, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 2999384b7cf64ad4892f70bf78dd1d6b, type: 3}
+    - {fileID: 21300000, guid: 36689787c85d2e346a0ef6a198cd93c6, type: 3}
+    - {fileID: 21300000, guid: 9abc6f163166a114a968e8f0917eb67f, type: 3}
+    - {fileID: 21300000, guid: 7071781f10b9e4f458da0903600414a5, type: 3}
+  - letterName: F
+    letterSprite: {fileID: 21300000, guid: 336544d2e0c7ce24ba21fe9193d632cf, type: 3}
+    maskSprite: {fileID: 21300000, guid: 336544d2e0c7ce24ba21fe9193d632cf, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 650792a2c2fabad49a9126ae6860973e, type: 3}
+    - {fileID: 21300000, guid: 77c4aaf0827f0984b927f4f7b646d144, type: 3}
+    - {fileID: 21300000, guid: ebe10cdea71f0994eb6ee4c36ea4dd44, type: 3}
+  - letterName: G
+    letterSprite: {fileID: 21300000, guid: c3e0284546b619d4e9ce2602960f3bc5, type: 3}
+    maskSprite: {fileID: 21300000, guid: c3e0284546b619d4e9ce2602960f3bc5, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 4b10bc31f56a9224f8774e3bba7955de, type: 3}
+    - {fileID: 21300000, guid: c4418d5e5d453894a940b2f1aa46abec, type: 3}
+  - letterName: H
+    letterSprite: {fileID: 21300000, guid: 79adb4059d2ce5f4b887cf464871d1ef, type: 3}
+    maskSprite: {fileID: 21300000, guid: 79adb4059d2ce5f4b887cf464871d1ef, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 5e00cc37f1de4ac4a93e521b0b830b94, type: 3}
+    - {fileID: 21300000, guid: 827218dac66b3504487a5cf93c26f0ac, type: 3}
+    - {fileID: 21300000, guid: c6dd0713e4c034b43a158a639d2e19be, type: 3}
+  - letterName: I
+    letterSprite: {fileID: 21300000, guid: 81d848053abe2af469c806681660a213, type: 3}
+    maskSprite: {fileID: 21300000, guid: 81d848053abe2af469c806681660a213, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 6b601ed3d9310ca48a6de4cfea7a67f5, type: 3}
+  - letterName: J
+    letterSprite: {fileID: 21300000, guid: c465300711e625544886449fb86f2887, type: 3}
+    maskSprite: {fileID: 21300000, guid: c465300711e625544886449fb86f2887, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: bb219d98394607c458114dc683064bcc, type: 3}
+  - letterName: K
+    letterSprite: {fileID: 21300000, guid: fe2a95f65504eaf45950b7a3720e71b5, type: 3}
+    maskSprite: {fileID: 21300000, guid: fe2a95f65504eaf45950b7a3720e71b5, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 50471da3499eda84ebf00f4a75cc88c0, type: 3}
+    - {fileID: 21300000, guid: 6f8b0f95430f00148a0a490c3e81611c, type: 3}
+    - {fileID: 21300000, guid: 0fa65a562fa7af44f8dd20f31f23ed89, type: 3}
+  - letterName: L
+    letterSprite: {fileID: 21300000, guid: 32807c513dad674488966a02cdd661b8, type: 3}
+    maskSprite: {fileID: 21300000, guid: 32807c513dad674488966a02cdd661b8, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: a47505b18b1fe4444a445a72c6e1ceb0, type: 3}
+    - {fileID: 21300000, guid: d47597033a1b18d4b9031ccc96ce4850, type: 3}
+  - letterName: M
+    letterSprite: {fileID: 0}
+    maskSprite: {fileID: 0}
+    guideSprites: []
+  - letterName: N
+    letterSprite: {fileID: 21300000, guid: c9c1490e734e1c54b9e05c6155111a17, type: 3}
+    maskSprite: {fileID: 21300000, guid: c9c1490e734e1c54b9e05c6155111a17, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 81703772f85b7ec4e8bb362a30fd5506, type: 3}
+    - {fileID: 21300000, guid: a4511f92cef1eca40853234767f75f45, type: 3}
+    - {fileID: 21300000, guid: 9394330db79b8f1449c5fcba93620a4f, type: 3}
+  - letterName: O
+    letterSprite: {fileID: 21300000, guid: a6d300fbf710dab4bbb9af76abdc6031, type: 3}
+    maskSprite: {fileID: 21300000, guid: a6d300fbf710dab4bbb9af76abdc6031, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 42f36a7218abec04d977311e4c6ef031, type: 3}
+  - letterName: P
+    letterSprite: {fileID: 21300000, guid: 2f9244ef266d70347b2d37b426ad453c, type: 3}
+    maskSprite: {fileID: 21300000, guid: 2f9244ef266d70347b2d37b426ad453c, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: cf071f63381ceb84db296fe19b788dd8, type: 3}
+    - {fileID: 21300000, guid: b28b41492f897e04aab859294355c630, type: 3}
+  - letterName: Q
+    letterSprite: {fileID: 21300000, guid: d99b79a31f7a5ce4ba2e55cc9b3b62bf, type: 3}
+    maskSprite: {fileID: 21300000, guid: d99b79a31f7a5ce4ba2e55cc9b3b62bf, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: be2df2a9eaff7fe46a3994e0e9ef3808, type: 3}
+    - {fileID: 21300000, guid: bc8bfc7747689d5489a28d21ffbb2c39, type: 3}
+  - letterName: R
+    letterSprite: {fileID: 21300000, guid: 4daada4c84e8bc44187a4173ae927808, type: 3}
+    maskSprite: {fileID: 21300000, guid: 4daada4c84e8bc44187a4173ae927808, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: b9f62e8457c187f41bfab6fc6d154fc0, type: 3}
+    - {fileID: 21300000, guid: 65c94cefebdcd234e91172dfcee3fa14, type: 3}
+    - {fileID: 21300000, guid: 1ff0bd847a879d64fa61fdbca5d356c9, type: 3}
+  - letterName: S
+    letterSprite: {fileID: 21300000, guid: 403fe3c2ff861814487d0ed6fc832b01, type: 3}
+    maskSprite: {fileID: 21300000, guid: 403fe3c2ff861814487d0ed6fc832b01, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: fb75ce757ec45d04e8f44b3ac42721f0, type: 3}
+  - letterName: T
+    letterSprite: {fileID: 21300000, guid: 6b6593dd550ea3a45843233170f88ba1, type: 3}
+    maskSprite: {fileID: 21300000, guid: 6b6593dd550ea3a45843233170f88ba1, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 091f180644be12c4ba7160a11e9f7203, type: 3}
+    - {fileID: 21300000, guid: b3e65cb053fbe5046af06ba579153074, type: 3}
+  - letterName: U
+    letterSprite: {fileID: 21300000, guid: ea57db40a8b517441871eaa6c859434a, type: 3}
+    maskSprite: {fileID: 21300000, guid: ea57db40a8b517441871eaa6c859434a, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: f49721b1cbbe1f04387996980788fbf5, type: 3}
+  - letterName: V
+    letterSprite: {fileID: 21300000, guid: e2e177be12968da42aa3f34f996be402, type: 3}
+    maskSprite: {fileID: 21300000, guid: e2e177be12968da42aa3f34f996be402, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 9091b28ba30184e439786b5f66ba6190, type: 3}
+    - {fileID: 21300000, guid: e473a466f5354c74f8d7b50a4dff2008, type: 3}
+  - letterName: W
+    letterSprite: {fileID: 21300000, guid: c6311945a7df404418be8fc12c9c8454, type: 3}
+    maskSprite: {fileID: 21300000, guid: c6311945a7df404418be8fc12c9c8454, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: 56817f8bf8e7f2441bb7c6ebcc50656f, type: 3}
+    - {fileID: 21300000, guid: 6cb6a9e3cd5a51545bb64d8d9cdb3e32, type: 3}
+    - {fileID: 21300000, guid: b7ae5281845fe6d41980b9e3b427fceb, type: 3}
+    - {fileID: 21300000, guid: 5c2794e787472d2419a36f0242ec1d6c, type: 3}
+  - letterName: X
+    letterSprite: {fileID: 21300000, guid: df20fca3197fca94593afb965b4d7e90, type: 3}
+    maskSprite: {fileID: 21300000, guid: df20fca3197fca94593afb965b4d7e90, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: a07662e44d5566c44a58cb426c72cd24, type: 3}
+    - {fileID: 21300000, guid: 7a57b737c47952d4d8ee8ed10fd266cd, type: 3}
+  - letterName: Y
+    letterSprite: {fileID: 21300000, guid: 4e36ae72441b54441b6f37dc0244f2f7, type: 3}
+    maskSprite: {fileID: 21300000, guid: 4e36ae72441b54441b6f37dc0244f2f7, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: fef8dca0ae7efca4cb796ac9c1d8fc1b, type: 3}
+    - {fileID: 21300000, guid: d1d472c2d1e336f4d91f7be1b1e75136, type: 3}
+    - {fileID: 21300000, guid: d80cf5dccb988e04a815344682b4f9c2, type: 3}
+  - letterName: Z
+    letterSprite: {fileID: 21300000, guid: 8e5afa8d469450b4c88a20ff0264cdd0, type: 3}
+    maskSprite: {fileID: 21300000, guid: 8e5afa8d469450b4c88a20ff0264cdd0, type: 3}
+    guideSprites:
+    - {fileID: 21300000, guid: beea71e1c5909b541bb1e4d4bdca0c02, type: 3}
+    - {fileID: 21300000, guid: 4c82aeacf0a0fed49806c08749266f29, type: 3}
+    - {fileID: 21300000, guid: a1ddeb2594f31ae47808114a19dfef5b, type: 3}
